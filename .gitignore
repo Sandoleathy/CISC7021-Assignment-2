@@ -1,0 +1,16 @@
+pytorch_venv/
+venv/
+articles/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# model
+ModelAndDatasets/llama-42m/
+ModelAndDatasets/data/
+models/
