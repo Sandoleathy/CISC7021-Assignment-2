@@ -14,3 +14,6 @@ __pycache__/
 ModelAndDatasets/llama-42m/
 ModelAndDatasets/data/
 models/
+
+# pdf
+/Assignment 2 Submission Instructions.pdf
